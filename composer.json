@@ -1,0 +1,20 @@
+{
+    "name": "alexander/query-builder",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Algvo\\QueryBuilder\\": "Builders/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Gvozdev",
+            "email": "dp161185gav@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "aigletter/contracts": "dev-master"
+    }
+}
