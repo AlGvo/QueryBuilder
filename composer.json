@@ -1,5 +1,5 @@
 {
-    "name": "alexander/query-builder",
+    "name": "algvo/query-builder",
     "type": "library",
     "license": "MIT",
     "autoload": {
